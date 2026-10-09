@@ -55,3 +55,6 @@ docker/install-test/
 
 # Local session report artifacts (not part of distribution)
 reports/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
